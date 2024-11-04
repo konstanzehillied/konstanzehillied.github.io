@@ -1,4 +1,3 @@
-User-Agent: *
-Disallow: /login
-
-Sitemap: https://konstanzehillied.github.io/zp533/sitemap_index.txt
+User-agent:*
+Allow:/
+Sitemap:https://konstanzehillied.github.io/sitemap.xml
